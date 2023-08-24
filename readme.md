@@ -6,7 +6,7 @@ The **Downloads Organizer** is a utility script tailored to maintain a neat and 
 
 ### Directory Layout:
 
-To begin with, ensure that your directory structure appears like this:
+To begin with, ensure that your directory structure appears like this, you just need to create the Brain and Body Folders:
 
 ```
 Downloads
